@@ -37,9 +37,9 @@ Example Playbook
 License
 -------
 
-BSD
+MIT
 
 Author Information
 ------------------
 
-FORGE Service Lab, Pasi Kivikangas, pasi.kivikangas@digile.fi
+Pasi Kivikangas, DIGILE LTd
